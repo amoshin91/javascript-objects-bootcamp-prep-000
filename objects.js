@@ -3,7 +3,7 @@ var playlist = {
   songTitle : 'Finesse'
 }
 
-function updatePlaylist() {
+function updatePlaylist(playlist) {
   playlist = '2018'
   return playlist;
 }
