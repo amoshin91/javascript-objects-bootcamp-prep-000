@@ -1,2 +1,1 @@
-Object.assign({playlist})
-
+var playlist = {
