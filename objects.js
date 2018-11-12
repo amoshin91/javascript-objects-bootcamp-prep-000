@@ -4,6 +4,6 @@ var playlist = {
 }
 
 function updatePlaylist() {
-  playlist['album'] = '2018'
+  playlist = '2018'
   return playlist;
 }
